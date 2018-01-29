@@ -1,6 +1,6 @@
 # USP, United Space Port
 
-Company that facilitates **interplanetary transport** and provides **administration services** to enable the identification and regulation of all objects in the KCSR (Know & Controlled Space regions).
+USP facilitates **interplanetary transport** and provides **administration services** to enable the identification and regulation of all objects in the KCSR (Know & Controlled Space regions).
 
 Ytera connections the interplanetary transport service offers spacetravel between all major spaceports in the KCSR including Yellowstone US, Europe, Mars Alpha, United HQ and First Moon spaceports. It has 2 types of connections, the 'lynx-connections' which is the conventional economy class and 'Star chaser' which offers luxerious and fast space travel. 
 The Regulating & Administration services include following business processes:
